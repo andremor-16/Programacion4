@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Helvetica';
+}
+
+body {
+    margin: 80px 40px;
+    background-color: rgba(105, 200, 255, 0.747);
+    
+}
+
+.container {
+    padding: 5%;
+    border: 2px solid #000;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.parrafos {
+    margin-bottom: 20px;
+}
+
+.Normal {
+    margin-bottom: 70px;
+    font-size: 25px;
+}
+
+.primero {
+    font-size: 25px;
+}
+
+.etiqueta {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.firma {
+    font-family: cursive;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+
+
+
+
